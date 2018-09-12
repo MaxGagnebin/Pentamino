@@ -1,5 +1,5 @@
 CXX=g++
-CXX_FLAGS= -Wall -O3
+CXX_FLAGS= -O3
 
 
 All: main.o Plateau.o Config.o 
